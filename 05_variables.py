@@ -1,4 +1,3 @@
-# 05_variables.py
 # Variables
 
 # Variables are containers for storing data values
