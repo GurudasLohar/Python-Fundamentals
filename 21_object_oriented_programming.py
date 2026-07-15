@@ -86,7 +86,7 @@ class BankAccount:
 
 
 print("\n=== Encapsulation Example ===")
-account = BankAccount("Tester", 1000)
+account = BankAccount("Developer", 1000)
 print(f"Initial balance: ${account.balance}")
 account.deposit(500)
 print(f"After deposit: ${account.balance}")

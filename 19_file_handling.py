@@ -53,7 +53,7 @@ print("=== JSON Handling ===")
 import json
 
 data = {
-    "name": "Tester",
+    "name": "Developer",
     "age": 25,
     "skills": ["Python", "SQL"],
     "active": True

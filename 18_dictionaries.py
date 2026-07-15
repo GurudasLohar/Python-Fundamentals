@@ -75,8 +75,8 @@ print("\n=== Nested Dictionaries ===")
 company = {
     "name": "TechCorp",
     "employees": {
-        "emp1": {"name": "Alice", "role": "Developer"},
-        "emp2": {"name": "Bob", "role": "Manager"}
+        "emp1": {"name": "Ram", "role": "Developer"},
+        "emp2": {"name": "Shyam", "role": "Manager"}
     }
 }
 print("Employee 1 role:", company["employees"]["emp1"]["role"])

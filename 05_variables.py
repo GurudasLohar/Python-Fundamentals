@@ -1,7 +1,7 @@
 # Variables
 
 # Variables are containers for storing data values
-name = "Alice"
+name = "Developer"
 age = 25
 height = 5.7
 is_student = True
