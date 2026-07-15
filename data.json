@@ -1,0 +1,9 @@
+{
+  "name": "Tester",
+  "age": 25,
+  "skills": [
+    "Python",
+    "SQL"
+  ],
+  "active": true
+}
