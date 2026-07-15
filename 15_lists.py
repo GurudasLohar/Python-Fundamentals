@@ -1,4 +1,4 @@
-# Python Lists
+# Lists
 
 # Lists are mutable, ordered, and allow duplicate elements
 
