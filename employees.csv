@@ -1,5 +1,5 @@
-Name,Age,City,Salary,Senior
-Alice,25,New York,70000,False
-Bob,30,London,80000,True
-Charlie,35,Paris,65000,True
-Diana,28,Tokyo,90000,False
+Name,Age,City,Salary
+Developer,28,New Delhi,75000
+Tester,34,Mumbai,82000
+Engineer,25,Chennai,68000
+Analyst,31,Bangalore,91000

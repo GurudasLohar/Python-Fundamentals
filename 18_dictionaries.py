@@ -5,7 +5,7 @@
 
 # Creating dictionaries
 person = {
-    "name": "Alice",
+    "name": "Develoeper",
     "age": 25,
     "skills": ["Python", "SQL", "AWS"],
     "active": True

@@ -45,7 +45,7 @@ def greet(name):
     print(f"Hello, {name}!")
     return "Greeting done"
 
-greet("Alice")
+greet("Developer")
 
 # 3. Class Decorator
 print("\n=== 3. Class Decorator ===")
