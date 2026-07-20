@@ -1,0 +1,19 @@
+# Python Fundamentals - Requirements
+# Core libraries used in this repository
+
+# Data Science & Scientific Computing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Optional: For better performance (uncomment if needed)
+# matplotlib>=3.7.0
+# seaborn>=0.12.0
+
+# Development & Testing (optional)
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0
+
+# Note: 
+# The built-in standard library modules (json, csv, sqlite3, logging, etc.)
+# do not need to be listed here.
