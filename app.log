@@ -1,0 +1,6 @@
+2026-07-20 12:28:54,393 - INFO - This message goes to both console and file
+2026-07-20 12:28:54,393 - DEBUG - Debug information saved to file
+2026-07-20 12:28:54,394 - INFO - Starting divide with args: (10, 2)
+2026-07-20 12:28:54,395 - INFO - Completed divide successfully
+2026-07-20 12:28:54,395 - INFO - Starting divide with args: (10, 0)
+2026-07-20 12:28:54,396 - ERROR - Error in divide: division by zero
