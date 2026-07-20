@@ -1,4 +1,4 @@
-# Comprehensive Guide to Python Standard Library
+# Standard Library
 
 # Python's "Batteries Included" philosophy means it comes with a rich set of
 # high-quality modules ready to use without external installation.

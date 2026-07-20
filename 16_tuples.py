@@ -5,7 +5,7 @@
 
 # Creating tuples
 coords = (10, 20, 30)
-person = ("Alice", 25, "Engineer")
+person = ("Developer", 25, "Engineer")
 single = (5,)                    # Note the comma! Without it, it's just int
 empty = ()
 

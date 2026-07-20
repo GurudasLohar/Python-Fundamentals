@@ -61,7 +61,7 @@ print("   ".isspace())      # True
 
 # 8. Modern Formatting
 print("\n=== f-strings & Formatting ===")
-name = "Alice"
+name = "Developer"
 age = 25
 score = 98.75
 
